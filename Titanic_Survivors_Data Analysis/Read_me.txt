@@ -1,0 +1,1 @@
+This is the data analysis project on Titanic's Survivors dataset. Tried to understand how the factors like age, sex, and class affected the survivors.
