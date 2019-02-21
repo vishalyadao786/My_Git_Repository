@@ -1,0 +1,1 @@
+This project is about the data from the stock market, particularly some technology stocks. I used pandas to get stock information, visualize different aspects of it, and finally found out a few ways of analyzing the risk of a stock, based on its previous performance history. I will also be predicting future stock prices through a Monte Carlo method!
